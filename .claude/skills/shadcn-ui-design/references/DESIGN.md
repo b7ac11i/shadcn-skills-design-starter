@@ -107,6 +107,7 @@ Exact 35 variables from the Figma `shadcn/ui` collection × 3 modes. Generated b
     --semantic-background: 30 1% 40.8%;
     --semantic-border: 30 0.8% 53.3%;
     --semantic-foreground: 0 0% 100%;
+      --radius: 0.5rem;
   }
 
   .dark {
